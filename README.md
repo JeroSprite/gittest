@@ -1,4 +1,4 @@
-프로젝트 오픈 소스
+프로젝트 오픈 소스   
 두 번째 버전 설명.
 
 원격저장소로부터 커밋을 다운로드 받아 로컬저장소에 저장했음. 
@@ -18,7 +18,8 @@
 - 넷
 - 다섯
 - 여섯
-'print('hello world!')'
+`print('hello world!')`
+
 [구글](https://www.google.co.kr/?hl=ko)
 
 | 물품 | 가격 |
@@ -27,17 +28,17 @@
 |제로콜라|2000|
 
 Code Example
-"
+```python
 for i in range(2, 10):
     for j in range(1, 10):
         print(f"{i}*{j}={i*j}")
-"
+```
 
 ~~긁힌 자국~~ 
 
 to_do_list
-- [] 코딩 공부
-- [] 운동
+- [ ] 코딩 공부
+- [ ] 운동
 - [x] 씻기
 
 Ok! :joy:
